@@ -3,7 +3,7 @@
 fs-weatherzones made by ⸸♱♥IDK_FORCE♥♱⸸#7611
 
 ```My Discord```
-- [Discord](https://discord.gg/6kJ5ubDEWE)
+- [Discord](https://discord.gg/UFng7DWnWP)
 
 ## How It Works
 Multiple Weather Zone In A Specific  By A Coord  Created By A Config
