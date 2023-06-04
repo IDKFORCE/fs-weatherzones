@@ -6,9 +6,9 @@ fs-weatherzones made by ⸸♱♥IDK_FORCE♥♱⸸#7611
 - [Discord](https://discord.gg/UFng7DWnWP)
 
 ## How It Works
-Multiple Weather Zone In A Specific  By A Coord  Created By A Config
+Multiple Weather Zone In A Specific  By A Coord Created By A Config
 
-# Make Sure To Turn Off Any Other Weather Script To Make The Weather Persistent (Optional)
+![link](https://cdn.discordapp.com/attachments/1021700112776437760/1114856156683321395/image.png)
 
 ## WEATHER TYPES
 
