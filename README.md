@@ -8,7 +8,8 @@ fs-weatherzones made by ⸸♱♥IDK_FORCE♥♱⸸#7611
 ## How It Works
 Multiple Weather Zone In A Specific  By A Coord Created By A Config
 
-![link](https://cdn.discordapp.com/attachments/1021700112776437760/1114856156683321395/image.png)
+![image](https://github.com/IDKFORCE/fs-weatherzones/assets/71199348/cbcce4cf-f424-474c-82dc-4ae0bae8309a)
+
 
 ## WEATHER TYPES
 
